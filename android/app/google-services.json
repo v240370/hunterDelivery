@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "596414794199",
+    "project_id": "hunter-delivery-315511",
+    "storage_bucket": "hunter-delivery-315511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596414794199:android:c857fa55223df9444e2392",
+        "android_client_info": {
+          "package_name": "ru.hunterDelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596414794199-9i8hfdk8if5ekqi72b42l8lno6bgjouj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNoNm5vqhYoLTK6sbtSTColv1v4wrJ3bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596414794199-9i8hfdk8if5ekqi72b42l8lno6bgjouj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "596414794199-js49enh2102oq0mk954ik6hbfcgniqmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.hunterDelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
